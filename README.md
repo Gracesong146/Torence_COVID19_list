@@ -1,2 +1,55 @@
 # Torence_COVID19_list
 Torence's list of things to do in the case of a COVID-19 lockdown
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Torence's COVID-19 rules</title>
+    <style>
+        .box{
+            margin: 1px auto;
+            border: 1px black solid;
+            background-color: lightgreen;
+            width: 30%;
+            text-align:left;
+        }
+    </style>
+</head>
+
+<body>
+        <h1>Torence's list of things to do during covid-19 lockdown:</h1>
+    <div class="box">
+        <ul>
+            <li>Chores</li>
+            <li>Sweep till the floors all clean</li>
+            <li>Polish</li>
+            <li>Wax</li>
+            <li>Do laundry</li>
+            <li>Mop & shine up</li>
+            <li>Sweep again and by then it's like 7:15</li>
+            <li>Read a book or maybe 2 or 3</li>
+            <li>Add a few new paintings to my gallery</li>
+            <li>Play guitar</li>
+            <li>Knit</li>
+            <li>Cook</li>
+            <li>Wonder when will my life begin</li>
+            <li>Puzzles </li>
+            <li>Darts </li>
+            <li>Baking</li>
+            <li>Paper mache</li>
+            <li>A bit of ballet and chess</li>
+            <li>Pottery and ventriloquy</li>
+            <li>Candle making</li>
+            <li>Stretch, maybe sketch</li>
+            <li>Take a climb</li>
+            <li>Sew a dress!</li>
+            <li>Reread the books if i have time to spare</li>
+            <li>Paint the walls some more</li>
+            <li>Brush and brush and brush and brush my hair</li>
+            <li>Keep wondering and wondering and wondering and wondering when will my life begin</li>
+        </ul>
+    </div>
+
+</body>
+
+</html>
